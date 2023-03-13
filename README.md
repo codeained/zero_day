@@ -1,0 +1,1 @@
+Initializing vagrant in gitbash
